@@ -3,8 +3,8 @@ body {
 }
 
 header {
-  background-color: #333;
-  color: #fff;
+  background-color: rgb(14, 13, 13);
+  color: rgb(255, 255, 255);
   padding: 20px;
   text-align: center;
 }
@@ -14,7 +14,7 @@ header h1 {
 }
 
 nav {
-  background-color: #eee;
+  background-color: rgb(17, 17, 17);
   padding: 10px;
 }
 
@@ -29,13 +29,13 @@ nav li {
 }
 
 nav a {
-  color: #333;
+  color: rgb(248, 243, 243);
   text-decoration: none;
   padding: 10px 20px;
 }
 
 nav a:hover {
-  background-color: #ddd;
+  background-color: rgb(0, 0, 0);
 }
 
 main {
@@ -55,8 +55,8 @@ main {
 }
 
 footer {
-  background-color: #333;
-  color: #fff;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   padding: 20px;
   text-align: center;
 }
